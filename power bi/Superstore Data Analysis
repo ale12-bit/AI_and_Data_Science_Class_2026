@@ -1,0 +1,8 @@
+A foundational data visualiztion project using Power BI to transforms Superstore sales dataset into actionable insghits.
+### KEY HIGHLIGHTS ####
+1. Data Cleaning:  used power bi query  to organize and format raw data for analysis.
+2. Visual Analysis: created a series of graphs and pie charts to identify (sales, profit marigins, quanties, product names etc)
+3. Core Skills: Data loading, basic DAX measuers and report formatting.
+### HOW TO VIEW ###
+1. Download the .pbix file.
+2. Open in Power Bi Desktop to explore the interactive dashboard.
